@@ -3,7 +3,9 @@ A small Macropad with 13 mx cherry switches, 2 rotary encoders with tactile butt
 
 Repo contains:
 Schematic/PCB files made in Kicad
+
 Firmware .ino made in Arduino IDE
+
 3D CAD made in SOLIDWORKS
 
 Solidworks Final CAD
